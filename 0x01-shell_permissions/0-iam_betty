@@ -1,4 +1,4 @@
-chmod u+x filename
 #!/usr/bin/env bash
 # switch current user to betty
 su betty
+chmod u+x filename
