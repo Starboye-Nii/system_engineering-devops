@@ -1,1 +1,3 @@
-
+#!/usr/bin/env bash
+# switch current user to betty
+su betty
