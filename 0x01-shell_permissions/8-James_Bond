@@ -1,0 +1,3 @@
+#!/bin/ bash
+# set owner=no perms, group=no perms, others=all perms for hello
+chmod 007 hello
