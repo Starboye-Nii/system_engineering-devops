@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # set permissions to owner=rwx, group=r-x, other=-wx
