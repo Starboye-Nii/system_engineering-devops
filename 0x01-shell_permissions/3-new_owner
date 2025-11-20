@@ -1,3 +1,2 @@
-#!/usr/bin/bash
+#!/bin/bash
 # change owner of file 'hello' to betty
-chown betty hello
