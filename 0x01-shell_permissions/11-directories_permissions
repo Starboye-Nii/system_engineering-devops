@@ -1,2 +1,2 @@
 #!/bin/bash
-# add execute permission for owner, group, others on subdirectories only (depth 1)
+   chmod -R a+X .
