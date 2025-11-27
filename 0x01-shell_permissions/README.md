@@ -1,7 +1,7 @@
 This directory contains scripts that demonstrate basic Linux permission commands.
 Each script performs one specific task and must be executable before running.
 
-📌 How to Run the Scripts
+How to Run the Scripts
 
 Open your terminal
 
@@ -19,7 +19,7 @@ Run the script:
 
 ./filename
 
-📜 Script Descriptions
+Script Descriptions
 File	Description
 0-iam_betty	Switches the current user to the user betty.
 1-who_am_i	Prints the effective username of the current user.
@@ -35,7 +35,7 @@ File	Description
 11-directories_permissions	Adds execute permission to all subdirectories of the current directory for all users.
 12-directory_permissions	Creates a directory called my_dir with permissions 751.
 13-change_group	Changes the group owner of the file hello to school.
-📝 Notes
+Notes
 
 All scripts start with:
 
