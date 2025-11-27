@@ -1,2 +1,2 @@
 #!/bin/bash
-# set permissions to owner=rwx, group=r-x, other=-wx
+   chmod 753 hello
