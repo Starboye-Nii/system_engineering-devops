@@ -1,2 +1,3 @@
-#!/bin/bash
-#betty
+#!/usr/bin/env bash
+   # Change owner of hello file to betty
+   chown betty hello
