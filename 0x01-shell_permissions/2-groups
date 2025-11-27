@@ -1,2 +1,2 @@
 #!/bin/bash
-all groups the current user is part of groups 
+groups
